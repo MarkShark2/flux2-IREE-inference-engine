@@ -1,0 +1,11 @@
+__pycache__/
+**/__pycache__/
+*.py[cod]
+
+quantized/
+output/
+*.log
+*.mlir
+*.vmfb
+*.irpa
+run_on_wsl.sh

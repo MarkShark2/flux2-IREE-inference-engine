@@ -1,0 +1,12 @@
+__pycache__/
+**/__pycache__/
+*.py[cod]
+.venv/
+
+quantized/
+output/
+*.log
+*.mlir
+*.vmfb
+*.irpa
+model-export-pipeline/run_on_wsl.sh
